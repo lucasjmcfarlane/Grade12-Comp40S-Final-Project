@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Cars_video_game_-_Rooster_Tails_(getmp3.pro).mp3-37517a594bcf8b99cb7fbf70b729efc1.mp3str"
+
+[deps]
+
+source_file="res://Music/Cars_video_game_-_Rooster_Tails_(getmp3.pro).mp3"
+dest_files=[ "res://.import/Cars_video_game_-_Rooster_Tails_(getmp3.pro).mp3-37517a594bcf8b99cb7fbf70b729efc1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

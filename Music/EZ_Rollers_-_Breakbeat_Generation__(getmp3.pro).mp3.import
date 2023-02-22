@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/EZ_Rollers_-_Breakbeat_Generation__(getmp3.pro).mp3-c076c52043f4b2dc83baf312f09eff23.mp3str"
+
+[deps]
+
+source_file="res://Music/EZ_Rollers_-_Breakbeat_Generation__(getmp3.pro).mp3"
+dest_files=[ "res://.import/EZ_Rollers_-_Breakbeat_Generation__(getmp3.pro).mp3-c076c52043f4b2dc83baf312f09eff23.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
